@@ -7,6 +7,8 @@ A simple tool which can help you crop tileset and show a part of it on your page
 [Clike me!](https://zhuobinggang.github.io/tileset.js/fuck.html)
 
 ## How to use
+
+### Browser
 ```js
 // First, new a TileSet instance with properties of 'src', 'width' ,'height' of a tile
 const ts = new TileSet('./assets/img/map.png', 32, 32)
@@ -17,4 +19,8 @@ ts.appendTo('two',4,5)
 ts.appendTo('three',8,14)
 ```
 
+### npm
+`npm i tileset.js`
+
 For detail please check the demo or source code
+

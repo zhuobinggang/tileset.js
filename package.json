@@ -1,5 +1,5 @@
 {
-  "name": "tileset",
+  "name": "tileset.js",
   "version": "1.0.0",
   "description": "Croping the tileset image then show a part of it on your page without dependencies like what you do with a game engine",
   "main": "tileset.js",
